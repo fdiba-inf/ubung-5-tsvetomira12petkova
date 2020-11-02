@@ -18,7 +18,7 @@ public class UniqueNumbers {
         }
 
         int[] uniqueNumbers = new int[numbers.length];
-        // Find unique numbers in numbers
+        
         int count = 0;
 
         for(int index = 0; index < numbers.length; index++){
